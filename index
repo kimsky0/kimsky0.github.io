@@ -1,18 +1,12 @@
-<!doctype html>       <!-- index.html -->
-<html><head>
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>개인 과제 리스트</title>
-<style>
- a:link {color:blue; text-decoration:none;} a:visited { color:purple; text-decoration:none;}
- a:hover { text-decoration:underline;} a:active {color:red; text-decoration:none;}
- </style></head>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
 <body>
- <ul><hr/>
- <li> pages </li>
- <ol>
- <li><a href="https://kimsky0.github.io/index" target="_blank">김하늘</a></li>
- </ol>
-</section>
+    <h1>김하늘 페이지</h1>
 </body>
 </html>
