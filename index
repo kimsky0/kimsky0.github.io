@@ -1,4 +1,4 @@
-<!doctype html> <!-- index.html -->
+<!doctype html>       <!-- index.html -->
 <html><head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -12,7 +12,7 @@
  <ul><hr/>
  <li> pages </li>
  <ol>
-  <li><a href="https://kimsky0.github.io/index" target="_blank">김하늘</a></li>
+ <li><a href="https://kimsky0.github.io/index" target="_blank">김하늘</a></li>
  </ol>
 </section>
 </body>
