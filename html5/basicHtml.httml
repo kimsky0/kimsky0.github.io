@@ -14,7 +14,7 @@
 <section>
  <p>첫 페이지</p>
  <ol type ="1">
- <li><a href="https://kimsky0.github.io/abc.html" target="_blank"></a></li>
+ <li><a href="https://kimsky0.github.io/abc.html" target="_blank">1</a></li>
  </ol>
 </section>
 </body>
